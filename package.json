@@ -1,7 +1,12 @@
 {	
 	"author": "Christopher",
 	"name": "fcc-learn-npm-package-json",
+	"description": "NPM freecodecamp practice",
+	"keywords": ["freecodecamp","tutorial","practice"],
+	"license": "freecodecamp",
+	"version": "1.0",
 	"dependencies": {
+		"@freecodecamp/example": "1.2.13",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
